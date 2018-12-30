@@ -1,2 +1,2 @@
-# Leetcode
-Leecode代码仓库
+# leetcode
+leecode代码仓库
